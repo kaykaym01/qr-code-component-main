@@ -29,7 +29,7 @@ body{
 }
 
 .qr-code{
-    max-width: 50%;
+    max-width: 90%;
     border-radius: .5em;
     margin: 0.5em auto;
 }
