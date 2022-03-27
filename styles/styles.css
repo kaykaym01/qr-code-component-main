@@ -14,6 +14,14 @@ body{
     background: #fff;
 }
 
+.bold{
+    color: hsl(218, 44%, 22%)
+}
+
+.gray {
+    color: hsl(220, 15%, 55%);
+}
+
 .qr-code{
     max-width: 50%;
     border-radius: .5em;
