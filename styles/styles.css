@@ -4,15 +4,17 @@ body{
 }
 
 .qr-code-card{
-    width: 25%;
+    width: 35%;
     font-size: 1rem;
-    border-radius: 2em;
+    border-radius: 1em;
     text-align: center;
     margin: 3em auto;
+    box-shadow: 0px 2px 5px #888888;
 }
 
+
 .qr-code{
-    max-width: 100%;
+    max-width: 50%;
     border-radius: .5em;
     margin: 0.5em auto;
 }
